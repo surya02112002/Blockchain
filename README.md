@@ -1,4 +1,4 @@
-# NFT Music Player
+# NFT Music Player chirag singhal
 
 ## Technology Stack & Tools
 
